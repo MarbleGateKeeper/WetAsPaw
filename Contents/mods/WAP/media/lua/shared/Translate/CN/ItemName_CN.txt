@@ -1,0 +1,8 @@
+ItemName_CN = {
+    ItemName_WetAsPaws.Comic_ShiroisPublicInvestigation = "《白井的社会见学》",
+	ItemName_WetAsPaws.Comic_BorderDog = "《边境犬》",
+	ItemName_WetAsPaws.Comic_SignUp2 = "《Sign Up 2》",
+    ItemName_WetAsPaws.Comic_HeatUp = "《Heat Up》",
+    ItemName_WetAsPaws.Comic_SignUp = "《Sign Up》",
+    ItemName_WetAsPaws.Comic_WarmUp = "《Warm Up》",
+}

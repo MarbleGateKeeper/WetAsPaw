@@ -1,0 +1,80 @@
+module WetAsPaws
+{
+    imports
+    {
+        Base
+    }
+
+    item Comic_ShiroisPublicInvestigation
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Shiroi's Public Investigation,
+		StressChange	=	-100,
+		Icon	=	Comic_ShiroisPublicInvestigation,
+		BoredomChange	=	-40,
+	}
+
+	item Comic_BorderDog
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Border Dog,
+		StressChange	=	-100,
+		Icon	=	Comic_BorderDog,
+		BoredomChange	=	-40,
+	}
+
+	item Comic_SignUp2
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Sign Up 2,
+		StressChange	=	-100,
+		Icon	=	Comic_SignUp2,
+		BoredomChange	=	-40,
+	}
+
+	item Comic_HeatUp
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Heat Up,
+		StressChange	=	-100,
+		Icon	=	Comic_HeatUp,
+		BoredomChange	=	-40,
+	}
+
+	item Comic_SignUp
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Sign Up,
+		StressChange	=	-100,
+		Icon	=	Comic_SignUp,
+		BoredomChange	=	-40,
+	}
+
+	item Comic_WarmUp
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Warm Up,
+		StressChange	=	-100,
+		Icon	=	Comic_WarmUp,
+		BoredomChange	=	-40,
+	}
+    
+}

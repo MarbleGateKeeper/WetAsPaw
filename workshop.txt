@@ -1,0 +1,5 @@
+version=1.0.0
+title=Wet As Paws
+description=W.A.P,
+tags=
+visibility=public
