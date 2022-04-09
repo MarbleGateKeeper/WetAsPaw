@@ -5,4 +5,8 @@ ItemName_CN = {
     ItemName_WetAsPaws.Comic_HeatUp = "《Heat Up》",
     ItemName_WetAsPaws.Comic_SignUp = "《Sign Up》",
     ItemName_WetAsPaws.Comic_WarmUp = "《Warm Up》",
+    ItemName_WetAsPaws.Comic_TimeUp = "《Time Up》",
+    ItemName_WetAsPaws.Comic_Gyakuten = "《Gyakuten》",
+    ItemName_WetAsPaws.Comic_Unproud = "《Unproud》",
+    ItemName_WetAsPaws.Comic_ReignOfTheSword = "《Reign of the Sword》",
 }

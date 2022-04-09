@@ -1,5 +1,5 @@
 version=1.0.0
 title=Wet As Paws
-description=W.A.P,
+description=A disastrous & fluffy Project Zomboid mod.
 tags=
 visibility=public

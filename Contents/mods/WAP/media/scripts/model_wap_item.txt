@@ -1,0 +1,66 @@
+module Base{
+    model Comic_ShiroisPublicInvestigation
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_ShiroisPublicInvestigation,
+        scale = 0.35,
+    }
+    model Comic_BorderDog
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_BorderDog,
+        scale = 0.35,
+    }
+    model Comic_HeatUp
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_HeatUp,
+        scale = 0.35,
+    }
+    model Comic_SignUp
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_SignUp,
+        scale = 0.35,
+    }
+    model Comic_SignUp2
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_SignUp2,
+        scale = 0.35,
+    }
+    model Comic_WarmUp
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_WarmUp,
+        scale = 0.35,
+    }
+
+    model Comic_TimeUp
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_TimeUp,
+        scale = 0.35,
+    }
+
+    model Comic_Gyakuten
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_Gyakuten,
+        scale = 0.35,
+    }
+
+    model Comic_Unproud
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_Unproud,
+        scale = 0.35,
+    }
+
+    model Comic_ReignOfTheSword
+    {
+        mesh = WAPComic,
+        texture = WorldItems/Comic_ReignOfTheSword,
+        scale = 0.35,
+    }
+}

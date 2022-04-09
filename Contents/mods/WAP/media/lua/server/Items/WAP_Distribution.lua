@@ -3,29 +3,27 @@ require "Items/ProceduralDistributions"
 
 local i, j, k, l
 
--- Distributions for ProceduralDistributions.lua
 local WAPProceduralDistributionTable = {
-  "BookstoreBooks", 100, 
-  "BookstoreMisc", 100,
-  "BookstoreStationery", 100,  
-  "LibraryBooks", 100,
-  "LibraryCounter", 100,
-  "BedroomSideTable", 100,
-  "LivingRoomShelf", 100,
-  "CafeShelfBooks", 100,
-  "CampingStoreBooks", 100,
-  "ClassroomMisc", 100,
-  "ClassroomShelves", 100,
-  "SchoolLockers", 100,
-  "CrateBooks", 100,
-  "CrateComics", 100,
-  "DeskGeneric", 100,
-  "ShelfGeneric", 100,
-  "Locker", 100,
-  "OfficeDesk", 100,
-  "PostOfficeBooks", 100,
-  "PrisonCellRandom", 100,
-  "PostOfficeBooks", 100,
+  "BookstoreBooks", 10, 
+  "BookstoreMisc", 5,
+  "BookstoreStationery", 2,  
+  "LibraryBooks", 20,
+  "LibraryCounter", 2,
+  "BedroomSideTable", 2,
+  "LivingRoomShelf", 2,
+  "CafeShelfBooks", 2,
+  "ClassroomMisc", 1,
+  "ClassroomShelves", 1,
+  "SchoolLockers", 1,
+  "CrateBooks", 5,
+  "CrateComics", 10,
+  "DeskGeneric", 1,
+  "ShelfGeneric", 1,
+  "Locker", 1,
+  "OfficeDesk", 1,
+  "PostOfficeBooks", 1,
+  "PrisonCellRandom", 1,
+  "PostOfficeBooks", 1,
 }
 
 local WAPBookTble = {
@@ -35,6 +33,10 @@ local WAPBookTble = {
     "WetAsPaws.Comic_HeatUp",
     "WetAsPaws.Comic_SignUp",
     "WetAsPaws.Comic_WarmUp",
+    "WetAsPaws.Comic_TimeUp",
+    "WetAsPaws.Comic_Gyakuten",
+    "WetAsPaws.Comic_Unproud",
+    "WetAsPaws.Comic_ReignOfTheSword",
  }
 
 for i = 1, #WAPProceduralDistributionTable, 2 do 
@@ -46,11 +48,11 @@ end
 
 local WAPDistributionTable = {
     {"all",{
-        "metal_shelves",100,
-        "crate",100,
-        "bin",100,
-        "counter",100,
-        "inventorymale",100,
+        "metal_shelves",0.5,
+        "crate",1,
+        "bin",0.5,
+        "counter",1,
+        "inventorymale",0.5,
     },
     }
 }

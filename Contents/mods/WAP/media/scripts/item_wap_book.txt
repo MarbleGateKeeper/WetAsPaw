@@ -15,6 +15,7 @@ module WetAsPaws
 		StressChange	=	-100,
 		Icon	=	Comic_ShiroisPublicInvestigation,
 		BoredomChange	=	-40,
+		WorldStaticModel = Comic_ShiroisPublicInvestigation,
 	}
 
 	item Comic_BorderDog
@@ -27,6 +28,7 @@ module WetAsPaws
 		StressChange	=	-100,
 		Icon	=	Comic_BorderDog,
 		BoredomChange	=	-40,
+		WorldStaticModel = Comic_BorderDog,
 	}
 
 	item Comic_SignUp2
@@ -39,6 +41,7 @@ module WetAsPaws
 		StressChange	=	-100,
 		Icon	=	Comic_SignUp2,
 		BoredomChange	=	-40,
+		WorldStaticModel = Comic_SignUp2,
 	}
 
 	item Comic_HeatUp
@@ -51,6 +54,7 @@ module WetAsPaws
 		StressChange	=	-100,
 		Icon	=	Comic_HeatUp,
 		BoredomChange	=	-40,
+		WorldStaticModel = Comic_HeatUp,
 	}
 
 	item Comic_SignUp
@@ -63,6 +67,7 @@ module WetAsPaws
 		StressChange	=	-100,
 		Icon	=	Comic_SignUp,
 		BoredomChange	=	-40,
+		WorldStaticModel = Comic_SignUp,
 	}
 
 	item Comic_WarmUp
@@ -75,6 +80,59 @@ module WetAsPaws
 		StressChange	=	-100,
 		Icon	=	Comic_WarmUp,
 		BoredomChange	=	-40,
+		WorldStaticModel = Comic_WarmUp,
+	}
+
+	item Comic_TimeUp
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Time Up,
+		StressChange	=	-100,
+		Icon	=	Comic_TimeUp,
+		BoredomChange	=	-40,
+		WorldStaticModel = Comic_TimeUp,
+	}
+
+	item Comic_Gyakuten
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Gyakuten,
+		StressChange	=	-100,
+		Icon	=	Comic_Gyakuten,
+		BoredomChange	=	-40,
+		WorldStaticModel = Comic_Gyakuten,
+	}
+
+	item Comic_Unproud
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Unproud,
+		StressChange	=	-100,
+		Icon	=	Comic_Unproud,
+		BoredomChange	=	-40,
+		WorldStaticModel = Comic_Unproud,
+	}
+
+	item Comic_ReignOfTheSword
+	{
+	    DisplayCategory = Literature,
+		Weight	=	0.05,
+		Type	=	Literature,
+		UnhappyChange	=	-40,
+		DisplayName	=	Reign of the Sword,
+		StressChange	=	-100,
+		Icon	=	Comic_ReignOfTheSword,
+		BoredomChange	=	-40,
+		WorldStaticModel = Comic_ReignOfTheSword,
 	}
     
 }
